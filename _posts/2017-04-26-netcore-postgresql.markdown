@@ -4,7 +4,7 @@ title:  "asp.net core with postgresql"
 date:   2017-04-26
 categories: aspnetcore
 tags: [asp.net core, .net core, postgresql]
-published: true
+published: false
 ---
 hello world 
 
